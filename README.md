@@ -1,4 +1,4 @@
-# LoadTestreport
+
 # K6 Load Test Report
 
 This repository contains the HTML report generated using K6.
